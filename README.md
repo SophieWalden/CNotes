@@ -1,6 +1,7 @@
 ![1](https://user-images.githubusercontent.com/37228858/152700036-d7cf16fb-0dfd-4d65-bf20-7a35de22dc1e.png)
 
 Write snippets of C code in your txt files for notes and skip the hassle of compiling and running.
+Greatly helps organization and note-taking to make sure you do not miss anything.
 
 Simply just run either the CNotes (Linux) or CNotes.exe (Windows) and specify file name as an argument and it will look through and create the program for you.
 
