@@ -1,0 +1,53 @@
+
+Operators: +, -, / *
+
+Example:
+
+~{
+
+float x = 5.0;
+int y = 3;
+float total = x + y;
+
+printf("%f", total);
+
+}~
+
+Functions can be declared
+but need typing specified 
+for both return and paramteters
+
+
+~{
+
+int sum_func(int x, int y){
+	return x + y;
+}
+
+int x = 5;
+int y = 26;
+int total = sum_func(x, y);
+
+printf("%d", total);
+
+}~
+
+Structs can also be used!
+This is due to some useful ways GCC uses the main function
+
+Example:
+~{
+
+struct Person{
+	char name[100];
+	int salary;
+	int age;
+
+} person1;
+
+person1.age = 50;
+person1.salary = 29500;
+
+printf("%d %d", person1.age, person1.salary);
+
+}~
