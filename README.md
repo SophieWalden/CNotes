@@ -1,6 +1,5 @@
 ![Untitled-Artwork (1)](https://user-images.githubusercontent.com/37228858/152842115-05d93b02-5b14-4498-85f1-bea48ce39b4c.png)
 
-
 Write snippets of C code in your txt files for notes and skip the hassle of compiling and running.
 Greatly helps organization and note-taking to make sure you do not miss anything.
 
@@ -12,8 +11,6 @@ Works with functions, structs, and whatnot more
 
 Everything will be sorted and put into the main function as needed, so no need to define it yourself
 See Example.txt for more examples
-
-Support for #include and more custom stuff soon!
 
 Built it because I would have a tab open and 2 terminals and be switching around trying to compile and take notes at the same time, it just was not possible to keep up with the professor. This should be a bit of a help, hoping to expand on it in the future
 
