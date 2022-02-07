@@ -12,7 +12,7 @@ Works with functions, structs, and whatnot more
 Everything will be sorted and put into the main function as needed, so no need to define it yourself
 See Example.txt for more examples
 
-Built it because I would have a tab open and 2 terminals and be switching around trying to compile and take notes at the same time, it just was not possible to keep up with the professor. This should be a bit of a help, hoping to expand on it in the future
+Built to skip around that process of having multiple terminals open and a txt file for editing notes. This should streamline the process and help you take better notes.
 
 Join the Diviware community and hear more about updates on this software and upcoming projects here:
 https://discord.gg/QcY7NznN3A
