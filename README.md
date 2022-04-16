@@ -13,6 +13,3 @@ Everything will be sorted and put into the main function as needed, so no need t
 See Example.txt for more examples
 
 Built to skip around that process of having multiple terminals open and a txt file for editing notes. This should streamline the process and help you take better notes.
-
-Join the Diviware community and hear more about updates on this software and upcoming projects here:
-https://discord.gg/QcY7NznN3A
